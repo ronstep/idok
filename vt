@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News3
-https://list.iptvcat.com/my_list/s/20fe3f40785896535b5f10327a675a3b.m3u8
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News2
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News
 http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1814?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",BBC 1 West
