@@ -14,26 +14,26 @@ http://51.154.28.81:2052/play/a08w
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",BBC One
 http://51.154.28.81:2052/play/a03n
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",BBC Two
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",BBC Two ?
 http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1831?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",ITV London
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1826?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a0b9
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Ch 4
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1821?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a050
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Channel 5
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1820?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a055
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Dave UK
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1783?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a08y
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Challenge UK
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1764?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a08q
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Pick UK
 http://51.154.28.81:2052/play/a08u
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Really UK
-http://watchbiptv.co:80/KbXAMQ5B/5639176/2010?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a06e
