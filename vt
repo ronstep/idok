@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",01/01/22
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",01/01/22 a
 http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1814?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",RT News
@@ -33,7 +33,7 @@ http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1783?checkedby:iptvcat.com
 http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1764?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Pick UK
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGfQIa6nYwLq_DythLxj4fU/ts?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a08u
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Really UK
 http://watchbiptv.co:80/KbXAMQ5B/5639176/2010?checkedby:iptvcat.com
