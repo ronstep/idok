@@ -29,6 +29,9 @@ http://51.154.28.81:2052/play/a055
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Dave UK
 http://51.154.28.81:2052/play/a08y
 
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",DMAX UK
+http://51.154.28.81:2052/play/a09b
+
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Freeview",Challenge UK
 http://51.154.28.81:2052/play/a08q
 
